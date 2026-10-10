@@ -4,8 +4,7 @@
   ᵐᵉ ᵃⁿᵈ ᵐʸ ˢᵒ³ <3
 
 <p align="center">
-  <img align="middle" src="https://readme-typing-svg.demolab.com/?font=Georgia&size=12&pause=100&color=c7b74e&center=true&vcenter=true&width=95&height=22&lines=your-lips-my-lips" /> <img align="middle" src="https://readme-typing-svg.demolab.com/?font=Georgia&size=12&pause=5000&color=c7b74e&center=true&vcenter=true&width=95&height=22&lines=apocalypsssse" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Eaglle+Lake&weight=100&size=14&duration=3000&pause=1381&color=DFC52C&center=true&repeat=false&width=150&height=22&lines=your+lips+my+lips" alt="Typing SVG" /></a> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Eaglle+Lake&weight=100&size=14&duration=7000&pause=1381&color=DFC52C&center=true&repeat=false&width=150&height=22&lines=apocalypssssse..." alt="Typing SVG" /></a>
 
 ㅤ
 ㅤ
